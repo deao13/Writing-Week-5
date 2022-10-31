@@ -345,7 +345,7 @@ swager-ui-express
 
 
 
-** Kamis, 27 Oktober 2022 **
+**Kamis, 27 Oktober 2022**
 ### Design Database With MySQL
 
 #### Menentukan Entity
@@ -377,7 +377,7 @@ Pada kali ini kita akan menggunakan terminal untuk menjalankan query SQL
 
 
 
-** Jumat, 28 Oktober 2022 **
+**Jumat, 28 Oktober 2022**
 ### Design Database With MySQL
 
 #### Apa itu Basis Data Relasional?
